@@ -1,0 +1,51 @@
+{
+    "month": "2026-04",
+    "generated_at": "2026-05-29T06:48:06.515Z",
+    "records": [
+        {
+            "staff_id": "1003",
+            "name": "Kidist Dereje",
+            "present_days": 0,
+            "absent_days": 30,
+            "base_monthly_salary": 15000,
+            "deduction": "15000.00",
+            "final_salary": "0.00"
+        },
+        {
+            "staff_id": "1004",
+            "name": "Ayelech Zebene",
+            "present_days": 0,
+            "absent_days": 30,
+            "base_monthly_salary": 21000,
+            "deduction": "21000.00",
+            "final_salary": "0.00"
+        },
+        {
+            "staff_id": "1005",
+            "name": "Betelhem Ayana",
+            "present_days": 0,
+            "absent_days": 30,
+            "base_monthly_salary": 15000,
+            "deduction": "15000.00",
+            "final_salary": "0.00"
+        },
+        {
+            "staff_id": "1002",
+            "name": "mahlet alemneh",
+            "present_days": 0,
+            "absent_days": 30,
+            "base_monthly_salary": 21000,
+            "deduction": "21000.00",
+            "final_salary": "0.00"
+        },
+        {
+            "staff_id": "1001",
+            "name": "Afomia Misikir",
+            "present_days": 7,
+            "absent_days": 23,
+            "base_monthly_salary": 15000,
+            "deduction": "11500.00",
+            "final_salary": "3500.00"
+        }
+    ]
+}

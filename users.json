@@ -1,0 +1,78 @@
+{
+    "admin01": {
+        "id": "admin01",
+        "name": "System Administrator",
+        "password_hash": "$2b$12$XCOv0QvtZtLBT2kK0b.fl.bQLW4UJiTB0Il2.wJRxLwA12X/EjZWu",
+        "role": "Admin",
+        "is_first_login": false
+    },
+    "super01": {
+        "id": "super01",
+        "name": "Supervisor One",
+        "password_hash": "$2b$12$FxXp.hn.MTr0yrSddeGUru4yOZqvoYHZ4.vQiqt.Sf2a68Bq1hB/m",
+        "role": "shift_supervisor",
+        "is_first_login": false
+    },
+    "fin01": {
+        "id": "fin01",
+        "name": "Hospital Accountant",
+        "password_hash": "$2b$12$.PHfY0RdyJgFtOPIUPVyCekGPQiMB0zHRF1jkhf1tHCxuG5MJ6La.",
+        "role": "finance",
+        "is_first_login": false
+    },
+    "1003": {
+        "id": "1003",
+        "name": "Kidist Dereje",
+        "sex": "Female",
+        "password_hash": "$2b$12$5ohBfZ/sz9nicm9gguMLvuyU.F5oh9iH6Z1r9855wO0XAdQ6c51/S",
+        "role": "staff",
+        "department": "NURSE",
+        "base_monthly_salary": 15000.0,
+        "overtime_rate": 500.0,
+        "is_first_login": true
+    },
+    "1004": {
+        "id": "1004",
+        "name": "Ayelech Zebene",
+        "sex": "Female",
+        "password_hash": "$2b$12$SRCKGD.ngYQj8UAWhT8mmehlYteMANhpYBO/vIBQyq.zkCwq.aMYa",
+        "role": "staff",
+        "department": "DR",
+        "base_monthly_salary": 21000.0,
+        "overtime_rate": 700.0,
+        "is_first_login": true
+    },
+    "1005": {
+        "id": "1005",
+        "name": "Betelhem Ayana",
+        "sex": "Female",
+        "password_hash": "$2b$12$bRKCJA0Ph4mjN3dSoqd/ReOCswxXrvIGIaOpp./nguFO9m/Sc39Fy",
+        "role": "staff",
+        "department": "NURSE",
+        "base_monthly_salary": 15000.0,
+        "overtime_rate": 500.0,
+        "is_first_login": true
+    },
+    "1002": {
+        "id": "1002",
+        "name": "mahlet alemneh",
+        "sex": "Female",
+        "password_hash": "$2b$12$uqopBf1HQoD9fMFzlLwxCOTbO73wO2ViSA10.PmRwHdSMhCzkzLAq",
+        "role": "staff",
+        "department": "cardiologiest",
+        "base_monthly_salary": 21000.0,
+        "overtime_rate": 700.0,
+        "is_first_login": false
+    },
+    "1001": {
+        "id": "1001",
+        "name": "Afomia Misikir",
+        "sex": "Female",
+        "password_hash": "$2b$12$FgFyE.e0a3i9ofSFkWOuqe.WlKHex.L9vbQwxQl/yVVHvSkonDSdW",
+        "role": "staff",
+        "department": "DR",
+        "base_monthly_salary": 15000.0,
+        "overtime_rate": 500.0,
+        "is_first_login": false
+    }
+}
